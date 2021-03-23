@@ -1,5 +1,7 @@
 # ACTIVECOVIDTRACKER
 
+##this project is done by team of 3 people from sastra deemed to be university.##
+
 ACTIVE COVID TRACKER is an IoT based wrist band which is proposed to track the patients whether there is a possibility of reappearing corona to the cured patients or for the people who were released from several days of quarantined by monitoring their body temperature, the oxygen level in blood & pulse rate through the internet itself. 
 
 WORKING:
